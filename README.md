@@ -1,8 +1,6 @@
 # DEPRECATED
 
-{{% alert color="warning" %}}
 This widget is deprecated.
-{{% /alert %}}
 
 ## 1 Introduction
 
